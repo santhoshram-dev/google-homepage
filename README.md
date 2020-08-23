@@ -7,3 +7,4 @@ the next step on OdinProject to clone GOOGLE page. will update the achievements 
 Sunday, 23 August, finished the google clone page exercise, it was a tough and awesome experience. have pushed the codes to git branch. Moving on to next exercise on
 OdinProject.
 
+Started the basic lessons of JavaScript.
